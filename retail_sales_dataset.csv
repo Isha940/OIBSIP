@@ -1,0 +1,21 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+1,2025-01-05,C001,Female,25,Beauty,2,500,1000
+2,2025-01-10,C002,Male,32,Electronics,1,1500,1500
+3,2025-01-15,C003,Female,28,Clothing,3,400,1200
+4,2025-02-02,C004,Male,45,Beauty,1,700,700
+5,2025-02-12,C005,Female,22,Electronics,2,2000,4000
+6,2025-02-20,C006,Male,35,Clothing,2,600,1200
+7,2025-03-03,C007,Female,30,Beauty,3,300,900
+8,2025-03-14,C008,Male,40,Electronics,1,2500,2500
+9,2025-03-22,C009,Female,27,Clothing,2,800,1600
+10,2025-04-04,C010,Male,29,Beauty,2,450,900
+11,2025-04-16,C011,Female,33,Electronics,1,3000,3000
+12,2025-04-25,C012,Male,24,Clothing,4,350,1400
+13,2025-05-06,C013,Female,38,Beauty,1,900,900
+14,2025-05-18,C014,Male,31,Electronics,2,1200,2400
+15,2025-05-27,C015,Female,26,Clothing,3,500,1500
+16,2025-06-08,C016,Male,42,Beauty,2,650,1300
+17,2025-06-19,C017,Female,23,Electronics,1,1800,1800
+18,2025-07-02,C018,Male,36,Clothing,2,700,1400
+19,2025-07-15,C019,Female,29,Beauty,3,400,1200
+20,2025-08-09,C020,Male,34,Electronics,1,2200,2200
